@@ -1,9 +1,6 @@
 import React, { useRef } from 'react'
 import './Contact.css';
-import Adobe from './adobe.png';
-import Facebook from './facebook.png';
-import Microsoft from './microsoft.png';
-import Walmart from './walmart.png';
+
 import Instagram from './instagram.png';
 import emailjs from '@emailjs/browser';
 import github from './github.png';
